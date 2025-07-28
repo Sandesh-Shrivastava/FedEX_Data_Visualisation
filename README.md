@@ -15,7 +15,7 @@ This project performs exploratory data analysis on a delivery dataset from the S
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Jupyter Notebook**
 
-## 📈 Core Insights
+## Core Insights
 - Delay patterns based on vendor and shipping mode
 - Regional and country-level delivery distribution
 - Product category and freight cost breakdowns
@@ -24,4 +24,4 @@ This project performs exploratory data analysis on a delivery dataset from the S
 ## Structure
 - `FedEx_SCMS_EDA_Project.ipynb`: Main analysis notebook
 - `SCMS_Delivery_History_Dataset.csv`: Raw dataset
-- 
+
